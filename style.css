@@ -19,7 +19,7 @@ nav {
   justify-content: space-around;
   align-items: center;
   min-height: 8vh;
-  background: rgb(0, 172, 172);
+  background: rgb(165, 165, 255);
 }
 
 .logo {
@@ -75,7 +75,7 @@ nav {
     right: 0px;
     height: 92vh;
     top: 8vh;
-    background: rgb(0, 172, 172);
+    background: rgb(165, 165, 255);
     display: flex;
     flex-direction: column;
     align-items: center;
